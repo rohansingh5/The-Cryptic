@@ -1,6 +1,5 @@
 # The-Cryptic
 The Cryptic: Full Stack Workforce &amp; Sprint Workspace." The objective of the project was to create a secure, user-friendly, and highly efficient platform that unifies real-time shift time tracking, automated attendance logging, and a project management workspace into a single ecosystem.
-#Live Aux Punch Check by the Team Leader (TL) only
 # The Current Aux Punch system
 The user the application needs to punch any one aux so that their current entry in the engterprise can be tracked. There are 6 hours of ONLINE aux which means a user needs to work for 6 hours and needs to punch ONLINE for that 6 hours when he is working in the enterprise so that his/her working hours can be easily tracked and 1 hour is for his/her free time in which he/she can punch BIO-Break aux to go on any kind of bio breaks as you can understand 2nd one is MEETING aux this aux can also be calulated in the login hours and the TL will adjust this aux punch in ONLINE aux because the Meeting is also counted as working hours, 3rd one is BREAK like the user wants to go for a short tea break or whatever he/she wants to do or want to sit free for some time, 4th one is LUNCH aux which don't need to be explained.
 <img width="1908" height="921" alt="Screenshot 2026-06-11 102544" src="https://github.com/user-attachments/assets/68bd8518-ca9b-4683-b27f-3d4c2966bb72" />
